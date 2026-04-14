@@ -1,43 +1,54 @@
 # Aerlix Consulting
 
 <p align="center">
-  <strong>Secure Systems Engineering • Compliance Automation • DevSecOps</strong><br>
+  <strong>AI Security • LLM Red Teaming • Secure Systems Engineering</strong><br>
   <a href="https://aerlixconsulting.com">aerlixconsulting.com</a>
 </p>
 
 ---
 
-## Overview
+## What We Build
 
-Aerlix Consulting delivers structured, security-first system architecture and compliance automation for institutional and regulated environments. Built for clarity, reliability, and defined outcomes, our operations are U.S.-based and registered as a limited liability company.
+Aerlix Consulting builds security-first systems for AI-enabled organizations operating in high-trust, regulated, and mission-sensitive environments.
 
-We focus on reducing operational risk through disciplined engineering, automation governance, and traceable deployment practices.
+Our work centers on practical security for modern AI applications: adversarial testing, prompt injection defense, autonomous agent evaluation, compliance-aware architecture, and secure delivery workflows.
 
 ---
 
-## Core Capability Areas
+## Focus Areas
 
-### Authorization & Compliance Automation  
-ATO-aligned control traceability, audit evidence management, and structured compliance workflows.
+### AI Security & Adversarial Testing  
+Prompt injection testing, jailbreak analysis, unsafe tool-use review, and structured security reporting for LLM applications.
 
-### Cloud-Native Architecture  
-Containerized systems, reproducible builds, and environment-isolated deployments.
+### Agent Evaluation & Risk Scoring  
+Evaluation pipelines, model and workflow scoring, and decision-support systems for AI risk and reliability.
 
-### DevSecOps & CI/CD  
-Security-integrated pipelines, automated validation, and traceable release governance.
+### Secure Cloud & DevSecOps  
+Reproducible deployments, infrastructure discipline, CI/CD hardening, and audit-ready engineering practices.
 
-### Infrastructure as Code  
-Version-controlled infrastructure, configuration discipline, and reproducible deployment models.
+### Compliance-Aware Architecture  
+Traceable system design for institutional, regulated, and government-aligned delivery environments.
+
+---
+
+## In Public Now
+
+We are actively publishing public-safe research, examples, and product-facing materials around:
+
+- Aerlix Sentinel
+- AI security assessment workflows
+- Secure deployment patterns
+- Red-team and evaluation-ready documentation
 
 ---
 
 ## Engineering Principles
 
-- Security-first design  
+- Security by design  
 - Automation by default  
-- Documentation as governance  
-- Reproducible builds  
-- Risk-aware architecture  
+- Documentation as a control surface  
+- Versioned, traceable change  
+- Public-safe transparency with private operational depth  
 
 ---
 
@@ -45,7 +56,7 @@ Version-controlled infrastructure, configuration discipline, and reproducible de
 
 Website: https://aerlixconsulting.com  
 Email: dylan@aerlixconsulting.com  
-Phone: 971-347-5857  
+GitHub: https://github.com/AerlixConsulting  
 
 ---
 
